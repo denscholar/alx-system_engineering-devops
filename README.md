@@ -1,0 +1,1 @@
+This README contain shell commands relating to todays task.
