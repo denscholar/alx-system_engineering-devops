@@ -1,0 +1,1 @@
+This readme will be for all commandsregarding to permission.
