@@ -1,1 +1,1 @@
-This explains everything happening in the file
+This is the content of the whole script 
