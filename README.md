@@ -1,1 +1,1 @@
-This README contain shell commands relating to todays task.
+This explains everything happening in the file
